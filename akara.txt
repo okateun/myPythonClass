@@ -1,0 +1,12 @@
+# Akara Recipe
+
+This is how we make akara.
+
+What is akara?
+Akara is a tasty Nigerian delicacy made from black-eyed beans. It is known by different names around the country.
+
+How is it made?
+Black-eyed beans is soacked for hours until the beans peels off through gentle coninuous scrubs or rubs. When this process
+is completed, the beans is washed and strained. Salt, pepper, bell-pepper, onions, are some of the ingredients added and
+blended to have a nice mixture. The final stage, is fyring, until brown, not burnt.
+
